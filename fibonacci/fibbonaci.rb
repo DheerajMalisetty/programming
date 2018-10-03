@@ -1,6 +1,6 @@
 print "Enter the number of term(s): "
 t = gets.chomp.to_i
-
+# ruby programming
 # and now we do the numbers
 n1 = 0
 n2 = 1
